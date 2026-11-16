@@ -1,0 +1,3 @@
+# Retrospektiivitekniikat
+
+Retrospektiivien tarkoituksena on...
